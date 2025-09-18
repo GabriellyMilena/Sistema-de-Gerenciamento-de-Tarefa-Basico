@@ -12,8 +12,3 @@ O sistema permite **adicionar, listar, concluir e remover tarefas** de forma sim
 - Marcar tarefa como concluída
 - Remover tarefa pelo ID
 - Menu interativo no console
-
----
-
-## 📂 Estrutura do Projeto
-
